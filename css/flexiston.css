@@ -44,7 +44,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://cdn.jsdelivr.net/gh/gyl-coder/blogImgs/images/touxiang.jpg) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/gyl-coder/blogImgs/images/touxiang.webp) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
